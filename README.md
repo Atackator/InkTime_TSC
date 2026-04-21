@@ -1,4 +1,5 @@
 InkTime-TSC Project
+<img width="1536" height="1024" alt="diagram" src="https://github.com/user-attachments/assets/0e4942e7-6568-493f-85a2-549d44c86f4c" />
 
 This project presents the design and development of a low-power, multi-functional smartwatch platform. The system is built around the nRF52840 SoC and integrates an E-paper display, motion sensing capabilities, and optimized power management within a compact PCB tailored for wearable devices.
 
